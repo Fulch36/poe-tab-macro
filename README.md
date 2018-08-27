@@ -7,7 +7,7 @@ This macro generates buttons that allow you to jump to any tab in your personal 
 ## Requirements
 The only requirement at this stage is a recent release of AutoHotkey. You can download it [here](https://autohotkey.com/download/).
 
-Make sure you get a v1.1.X release by clicking the 'Download AutoHotkey Installer' button and **not** a v2.x release from the 'Other Releases' section.
+Make sure you get a v1.1.x release by clicking the 'Download AutoHotkey Installer' button and **not** a v2.x release from the 'Other Releases' section.
 
 # Quick start
 The use of this macro requires a little bit of configuration before you can smoothly navigate your stash like never before. The macro comes with a handy configuration tool that we'll need to use to customise our tab buttons.
