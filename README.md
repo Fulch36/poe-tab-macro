@@ -20,6 +20,11 @@ The use of this macro requires a little bit of configuration before you can smoo
 6. Launch the game.
 7. Head to your stash in a town or your hideout and use Ctrl + F2 (by default) to toggle the button overlay.
 
+## Notes
+The folder structure for this macro is important so please don't move anything around or it may not function. This is intentional as it allows you to simply delete the folder that the macro is in to completely remove it from your PC, no files are stored elsewhere on your machine.
+
+I've included a .bat file that will launch both the macro itself as well as the Steam version of the game (if you have it installed). This doesn't require any additional configuration but **must** remain in the same folder as the 'Main.ahk' file to function. You can create a shortcut to this batch file to give yourself a convenient little desktop shortcut!
+
 # Configuration
 **Further details to follow in the wiki**
 
