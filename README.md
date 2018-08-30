@@ -1,6 +1,13 @@
 # Path of Exile - Stash Tab Macro
 An [AutoHotkey](https://autohotkey.com/) macro for [Path of Exile](https://www.pathofexile.com/), which adds an additional row of user configurable stash tab buttons.
 
+# WARNING
+This macro has been deemed unacceptable under the current Terms of Use by GGG. They attributed this to the macro providing too great of an advantage to those who use it, over those who do not.
+
+I'm leaving the repo here for others to learn from in terms of creating decent looking GUI's that fit with the game, many of the utility functions used could also save other developers time in future projects.
+
+**IF, AFTER READING THIS WARNING, YOU STILL CHOOSE TO USE THIS MACRO THEN YOU OPEN YOURSELF UP TO THE POSSIBILITY OF BEING BANNED AND LOSING YOUR ACCOUNT. I ACCEPT NO RESPONSIBILITY FOR THIS HAPPENING.**
+
 ## Features
 This macro generates buttons that allow you to jump to any tab in your personal stash with a single click. Each button can be configured to feature a text label, colour and hotkey of your choosing.
 
